@@ -58,12 +58,14 @@ table {
 td {
     font: normal 13px "Trebuchet MS", Verdana, "Lucida Grande", Georgia, Sans-Serif;
     padding-top: 6px;
+    padding-right: 6px;
+    padding-left: 6px;
     padding-bottom: 6px;
 }
 
 td#numerito {
     font-weight: bold;
-    text-align: left;
+    text-align: right;
     width: 5%;
 }
 
@@ -89,6 +91,10 @@ table#izquierda {
 
 table#barra, tr#barra-tr {
     border: 1px solid #392222; 
+}
+
+tr#backgnd{
+    background : url(../img/slide-bg.png) 0 0;
 }
 
 table#barra a{
