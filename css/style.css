@@ -4,9 +4,9 @@ This is the main CSS file for my webpage
 
 
 /* Html Elements */
+
 html {
     background-color: #EBEBEB;
-    border-top: 10px solid #696565; 
     font: normal 12px "Trebuchet MS", Verdana, "Lucida Grande", Georgia, Sans-Serif;
 }
 
@@ -50,11 +50,11 @@ h1 a, h2 a{
 #header {
     text-align:center; 
     vertical-align:middle; 
-    padding: 8px 0 8px;
+    padding: 6px 0 6px;
     color: #fff;
-    font-size: 1em;
+    font-size: 1.1em;
 /*    background-color: #2578EC;*/
-/*    background : url(../img/slide-bg.png) 0 0;*/
+    background : url(../img/slide-bg.png) 0 0;
 }
 
 #header a:link,
@@ -153,7 +153,7 @@ div.wrap {
 /* Navigation */
 
 #navigation-sup {
-    margin-top: 2%;
+    margin-bottom: 1%;    
     float: left;
     width: 96%;
     clear: both;
