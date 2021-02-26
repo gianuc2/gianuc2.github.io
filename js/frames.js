@@ -23,7 +23,7 @@ function frames(variable){
         document.getElementById("enframe").src="pages/preprints.html";
     }  
     else if (variable==8){
-        document.getElementById("enframe").src="pages/eventos.html";
+        document.getElementById("enframe").src="pages/seminario-don-hubert.html";
     }  
     else if (variable==9){
         document.getElementById("enframe").src="pages/contacto.html";
