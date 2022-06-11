@@ -12,11 +12,11 @@ function frames(variable){
     }
     else if (variable==3){
         document.getElementById("enframe").src="pages/tesistas-actuales.html";
-        document.getElementById("enframe").height="600";       
+        document.getElementById("enframe").height="700";       
     }
     else if (variable==4){
         document.getElementById("enframe").src="pages/graduados.html";
-        document.getElementById("enframe").height="600";       
+        document.getElementById("enframe").height="700";       
     }
     else if (variable==5){
         document.getElementById("enframe").src="pages/proyectos.html";
