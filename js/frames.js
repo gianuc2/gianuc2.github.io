@@ -36,6 +36,6 @@ function frames(variable){
     }  
     else if (variable==9){
         document.getElementById("enframe").src="pages/contacto.html";
-        document.getElementById("enframe").height="600";       
+        document.getElementById("enframe").height="500";       
     }  
 } 
