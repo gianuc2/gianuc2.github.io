@@ -1,10 +1,10 @@
    
 function frames(variable){
     document.getElementById("enframe").src="pages/home.html";
-    document.getElementById("enframe").height="600";
+    document.getElementById("enframe").height="500";
     if (variable==1){
         document.getElementById("enframe").src="pages/home.html";
-        document.getElementById("enframe").height="600";       
+        document.getElementById("enframe").height="500";       
     }
     else if (variable==2){
         document.getElementById("enframe").src="pages/investigadores.html";
