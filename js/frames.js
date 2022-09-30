@@ -24,7 +24,7 @@ function frames(variable){
     }
     else if (variable==6){
         document.getElementById("enframe").src="pages/publicaciones.html"; 
-        document.getElementById("enframe").height="1600";       
+        document.getElementById("enframe").height="1300";       
     }
     else if (variable==7){
         document.getElementById("enframe").src="pages/preprints.html";
