@@ -11,8 +11,8 @@ function frames(variable){
         document.getElementById("enframe").height="800";       
     }
     else if (variable==3){
-        document.getElementById("enframe").src="pages/tesistas-actuales.html";
-        document.getElementById("enframe").height="700";       
+        document.getElementById("enframe").src="pages/tesistas.html";
+        document.getElementById("enframe").height="1000";       
     }
     else if (variable==4){
         document.getElementById("enframe").src="pages/graduados.html";
