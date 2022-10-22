@@ -16,11 +16,11 @@ function frames(variable){
     }
     else if (variable==4){
         document.getElementById("enframe").src="pages/proyectos.html";
-        document.getElementById("enframe").height="700";       
+        document.getElementById("enframe").height="750";       
     }
     else if (variable==5){
         document.getElementById("enframe").src="pages/publicaciones.html"; 
-        document.getElementById("enframe").height="1400";       
+        document.getElementById("enframe").height="1450";       
     }
     else if (variable==6){
         document.getElementById("enframe").src="pages/preprints.html";
@@ -28,7 +28,7 @@ function frames(variable){
     }  
     else if (variable==7){
         document.getElementById("enframe").src="pages/seminario-don-hubert.html";
-        document.getElementById("enframe").height="700";       
+        document.getElementById("enframe").height="1200";       
     }  
     else if (variable==8){
         document.getElementById("enframe").src="pages/contacto.html";
