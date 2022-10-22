@@ -28,7 +28,7 @@ function frames(variable){
     }  
     else if (variable==7){
         document.getElementById("enframe").src="pages/seminario-don-hubert.html";
-        document.getElementById("enframe").height="1200";       
+        document.getElementById("enframe").height="1250";       
     }  
     else if (variable==8){
         document.getElementById("enframe").src="pages/contacto.html";
