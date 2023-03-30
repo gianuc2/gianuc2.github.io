@@ -12,7 +12,7 @@ function frames(variable){
     }
     else if (variable==3){
         document.getElementById("enframe").src="pages/tesistas.html";
-        document.getElementById("enframe").height="1100";       
+        document.getElementById("enframe").height="1200";       
     }
     else if (variable==4){
         document.getElementById("enframe").src="pages/proyectos.html";
