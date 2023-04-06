@@ -20,7 +20,7 @@ function frames(variable){
     }
     else if (variable==5){
         document.getElementById("enframe").src="pages/publicaciones.html"; 
-        document.getElementById("enframe").height="2000";       
+        document.getElementById("enframe").height="2020";       
     }
     else if (variable==6){
         document.getElementById("enframe").src="pages/preprints.html";
