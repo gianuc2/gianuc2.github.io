@@ -12,7 +12,7 @@ function frames(variable){
     }
     else if (variable==3){
         document.getElementById("enframe").src="pages/tesistas.html";
-        document.getElementById("enframe").height="1300";       
+        document.getElementById("enframe").height="1000";       
     }
     else if (variable==4){
         document.getElementById("enframe").src="pages/proyectos.html";
@@ -28,7 +28,7 @@ function frames(variable){
     }  
     else if (variable==7){
         document.getElementById("enframe").src="pages/graduados.html";
-        document.getElementById("enframe").height="650";       
+        document.getElementById("enframe").height="850";       
     }
     else if (variable==9){
         document.getElementById("enframe").src="pages/eventos.html";
