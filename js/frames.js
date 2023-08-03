@@ -30,7 +30,7 @@ function frames(variable){
         document.getElementById("enframe").src="pages/graduados.html";
         document.getElementById("enframe").height="950";       
     }
-    else if (variable==7){
+    else if (variable==8){
         document.getElementById("enframe").src="pages/graduados-pregrado.html";
         document.getElementById("enframe").height="550";       
     }       
