@@ -30,6 +30,10 @@ function frames(variable){
         document.getElementById("enframe").src="pages/graduados.html";
         document.getElementById("enframe").height="950";       
     }
+    else if (variable==7){
+        document.getElementById("enframe").src="pages/graduados-pregrado.html";
+        document.getElementById("enframe").height="550";       
+    }       
     else if (variable==9){
         document.getElementById("enframe").src="pages/eventos.html";
         document.getElementById("enframe").height="550";       
