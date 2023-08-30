@@ -15,30 +15,34 @@ function frames(variable){
         document.getElementById("enframe").height="800";       
     }
     else if (variable==4){
+        document.getElementById("enframe").src="pages/ayudantes-investigacion.html";
+        document.getElementById("enframe").height="550";       
+    }
+    else if (variable==5){
         document.getElementById("enframe").src="pages/proyectos.html";
         document.getElementById("enframe").height="900";       
     }
-    else if (variable==5){
+    else if (variable==6){
         document.getElementById("enframe").src="pages/publicaciones.html"; 
         document.getElementById("enframe").height="2300";       
     }
-    else if (variable==6){
+    else if (variable==7){
         document.getElementById("enframe").src="pages/preprints.html";
         document.getElementById("enframe").height="550";       
     }  
-    else if (variable==7){
+    else if (variable==8){
         document.getElementById("enframe").src="pages/graduados-postgrado.html";
         document.getElementById("enframe").height="950";       
     }
-    else if (variable==8){
+    else if (variable==9){
         document.getElementById("enframe").src="pages/graduados-pregrado.html";
         document.getElementById("enframe").height="550";       
     }       
-    else if (variable==9){
+    else if (variable==10){
         document.getElementById("enframe").src="pages/eventos.html";
         document.getElementById("enframe").height="550";       
     }  
-    else if (variable==10){
+    else if (variable==11){
         document.getElementById("enframe").src="pages/contacto.html";
         document.getElementById("enframe").height="550";       
     }  
