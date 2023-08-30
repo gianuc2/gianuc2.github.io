@@ -208,7 +208,7 @@ li#lihome a{
 #menu {
     margin-top: -1%;
     float: left;
-    width: 16%;
+    width: 18%;
     clear: both;
     padding-left: 1%;
 }
@@ -231,7 +231,7 @@ li#lihome a{
     border: 1px solid #392222;
     color: white;
     display: block;
-    padding: 8px 13px;
+    padding: 8px 8px;
 }
 
 .nav-menu li a:hover {
@@ -240,7 +240,7 @@ li#lihome a{
 
 .nav-menu li {
     position: relative;
-    padding: 4px 5px;
+    padding: 4px 4px;
 }
 
 
@@ -269,7 +269,7 @@ li#lihome a{
 /* main-body */
 
 #main-body {
-	width: 81%;
+	width: 79%;
 	margin-top: -0.5%;
 	margin-left: 1%;
 	float: left;
