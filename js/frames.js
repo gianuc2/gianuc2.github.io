@@ -4,7 +4,7 @@ function frames(variable){
     document.getElementById("enframe").height="650";
     if (variable==1){
         document.getElementById("enframe").src="pages/grupo.html";
-        document.getElementById("enframe").height="700";       
+        document.getElementById("enframe").height="1000";       
     }
     else if (variable==2){
         document.getElementById("enframe").src="pages/investigadores.html";
