@@ -12,7 +12,7 @@ function frames(variable){
     }
     else if (variable==3){
         document.getElementById("enframe").src="pages/tesistas.html";
-        document.getElementById("enframe").height="750";       
+        document.getElementById("enframe").height="730";       
     }
     else if (variable==4){
         document.getElementById("enframe").src="pages/ayudantes-investigacion.html";
@@ -24,7 +24,7 @@ function frames(variable){
     }
     else if (variable==6){
         document.getElementById("enframe").src="pages/publicaciones.html"; 
-        document.getElementById("enframe").height="2750";       
+        document.getElementById("enframe").height="2780";       
     }
     else if (variable==7){
         document.getElementById("enframe").src="pages/preprints.html";
