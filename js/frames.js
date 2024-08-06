@@ -24,11 +24,11 @@ function frames(variable){
     }
     else if (variable==6){
         document.getElementById("enframe").src="pages/publicaciones.html"; 
-        document.getElementById("enframe").height="2900";       
+        document.getElementById("enframe").height="2850";       
     }
     else if (variable==7){
         document.getElementById("enframe").src="pages/preprints.html";
-        document.getElementById("enframe").height="950";       
+        document.getElementById("enframe").height="1050";       
     }  
     else if (variable==8){
         document.getElementById("enframe").src="pages/graduados-postgrado.html";
