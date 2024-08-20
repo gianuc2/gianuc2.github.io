@@ -28,7 +28,7 @@ function frames(variable){
     }
     else if (variable==7){
         document.getElementById("enframe").src="pages/preprints.html";
-        document.getElementById("enframe").height="1050";       
+        document.getElementById("enframe").height="1100";       
     }  
     else if (variable==8){
         document.getElementById("enframe").src="pages/graduados-postgrado.html";
